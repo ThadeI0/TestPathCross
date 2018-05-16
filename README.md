@@ -1,2 +1,2 @@
 # TestPathCross
-test
+dotnet TestPath.dll 
